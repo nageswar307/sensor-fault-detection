@@ -12,11 +12,8 @@ In this project, the system in focus is the Air Pressure system (APS) which gene
 The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
 
 ## Tech Stack Used
-<<<<<<< HEAD
 1. Python 
 2. FastAPI 
 3. Machine learning algorithms
 4. Docker
 5. MongoDB
-=======
->>>>>>> 0358935ccaa1f147ea8d6ff62b1188e23ab02f70
